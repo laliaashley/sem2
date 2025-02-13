@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<htm>
+<html>
 <head>
 <title>Public Library Expansion Project</title>
 <style>
